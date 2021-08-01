@@ -25,6 +25,6 @@ Pewlett Hackard has a large talent pool of experts that are still decently far o
 
 Looking at the query below, Pewlett Hackard doesn't have any employees born after 1965. With the addition of more mentors as discussed above, they should also focus on hiring a lot of young talent to fill the void soon to be left by those retiring.
 
-![birth]()
+![birth](https://github.com/typicalchazz/Pewlett-Hackard-Analysis/blob/main/Analysis%20Projects%20Folder/Pewlett-Hackard%20Analysis%20Folder/Images/max_birth_date.png)
 
 
